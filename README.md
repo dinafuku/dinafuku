@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi I'm Dylan Inafuku! 👋 
 
-<!--
-**dinafuku/dinafuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sophomore at Chapman University!
 
-Here are some ideas to get you started:
+- 💻 Majoring in Computer Science
+- 📈 Minoring in Analytics
+- 🎵 Hobby: I enjoy playing the guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me:
+
+[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/dylan-inafuku#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/dylan-inafuku#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/dylan_inafuku/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/dylan_inafuku/#gh-dark-mode-only)
+
+### Languages learned:
+
+[<img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />]
+
+<br />
+<br />
+
+---
+
+[instagram]: https://www.instagram.com/dylan_inafuku/
+[linkedin]: www.linkedin.com/in/dylan-inafuku

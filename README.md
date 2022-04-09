@@ -11,8 +11,8 @@
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/dylan-inafuku/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/dylan-inafuku/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dylan_inafuku/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dylan_inafuku/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dylan_inafuku#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dylan_inafuku#gh-dark-mode-only)
 
 ### Languages learned:
 

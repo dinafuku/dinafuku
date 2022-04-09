@@ -1,4 +1,4 @@
-<img align="middle" alt="Banner" height=500 width="1000" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
+<img align="middle" alt="Banner" height=320 width="1100" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 <h1 align="center">Hi, I'm Dylan Inafuku 👋</h1>
 <h3 align="center">Sophomore at Chapman University!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">

@@ -8,8 +8,8 @@
 
 ### How to reach me:
 
-[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/dylan-inafuku#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/dylan-inafuku#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/dylan-inafuku/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/dylan-inafuku/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/dylan_inafuku/#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/dylan_inafuku/#gh-dark-mode-only)
@@ -25,4 +25,4 @@
 ---
 
 [instagram]: https://www.instagram.com/dylan_inafuku/
-[linkedin]: www.linkedin.com/in/dylan-inafuku
+[linkedin]: www.linkedin.com/in/dylan-inafuku/

@@ -25,6 +25,6 @@
 <a href="https://leetcode.com/" target="_blank">LeetCode</a><br>
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank">Data Structure Visualization Tool</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinafuku&layout=compact)](https://github.com/dinafuku/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinafuku&show_icons=true&locale=en&layout=compact" alt="dinafuku" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dinafuku&show_icons=true&locale=en" alt="dinafuku" /></p>

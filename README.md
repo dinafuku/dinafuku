@@ -1,5 +1,5 @@
 <img align="middle" alt="Banner" height=320 width="1100" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif">
-<h1 align="center">Hi, I'm Dylan Inafuku 👋</h1>
+<h1 align="center">Hi! I'm Dylan Inafuku 👋</h1>
 <h3 align="center">Eager sophomore with a strong work ethic seeking a summer internship in the Computer Science industry where I can apply my knowledge to real-life applications, gain professional skills and experiences, and use my problem-solving skills to assist in projects effectively and efficiently.</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinafuku&theme=dark&show_icons=true&locale=en&layout=compact" alt="dinafuku" />

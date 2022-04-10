@@ -1,6 +1,7 @@
 <img align="middle" alt="Banner" height=320 width="1100" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 <h1 align="center">Hi, I'm Dylan Inafuku 👋</h1>
-<h3 align="center">Sophomore at Chapman University!</h3>
+<h3 align="center">Eager sophomore with a strong work ethic seeking a career in the Computer Science industry where I can apply my knowledge to real-life applications, gain professional skills and experiences, and use my problem-solving skills to assist in projects effectively and efficiently.</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinafuku&label=Profile%20views&color=0e75b6&style=flat" alt="dinafuku" /> </p>

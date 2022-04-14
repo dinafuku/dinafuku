@@ -2,6 +2,8 @@
 <h1 align="center">Hi! I'm Dylan Inafuku <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Eager sophomore with a strong work ethic seeking a summer internship in the Computer Science industry where I can apply my knowledge to real-life applications, gain professional skills and experiences, and use my problem-solving skills to assist in projects effectively and efficiently.</h3>
 
+<br>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinafuku&theme=dark&show_icons=true&locale=en" alt="dinafuku" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinafuku&label=Profile%20views&color=0e75b6&style=flat" alt="dinafuku" /> </p>
 
@@ -13,8 +15,8 @@
 
 - 🎵 Hobby: **I enjoy playing the guitar** 
 
-- 📫 How to reach me **dinafuku808@gmail.com**<img align="right" alt="Coding" height = "200" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
+- 📫 How to reach me **dinafuku808@gmail.com**
+<img align="right" alt="Coding" height = "200" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dylan-inafuku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan inafuku" height="30" width="40" /></a>

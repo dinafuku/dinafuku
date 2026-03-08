@@ -14,8 +14,6 @@
 
 - 🎵 Hobby: **I enjoy playing the guitar** 
 
-- 📫 How to reach me **dinafuku808@gmail.com**
-
 <!-- <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" height = "180" width="300"> -->
 
 <h3 align="left">Connect with me:</h3>
